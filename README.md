@@ -154,9 +154,9 @@ ros2 run ur5_draw web_direct_controller
 
 ## 👨‍💻 Author
 
-**Rahul Ravi VK**
-**Rishi Mehta**
-**Pratham Salvi**
+- **Rahul Ravi VK**
+- **Rishi Mehta**
+- **Pratham Salvi**
 Master's in Robotics — University of Maryland
 
 ---
