@@ -12,7 +12,7 @@ The system uses **inverse kinematics (IK)** via `IKPy` to convert user-drawn tra
 
 ![UR5 Demo](videos/demo.gif)
 
-▶️ [Watch on YouTube](https://youtu.be/your-demo-link)
+▶️ [Watch Demo](https://drive.google.com/file/d/1DiG7gqiEOJPpZ6RzulsZfuZ8Wa0lbqSt/view?usp=sharing)
 
 ---
 
@@ -62,7 +62,7 @@ src/ur5_draw/ur5_draw/web_direct_controller.py
 Find:
 
 ```python
-URDF_PATH = "/home/rishimehta/ur5_imitation/src/ur_description/urdf/ur5_robot.urdf"
+URDF_PATH = "/home/laymbot/UR5-ros2-drawing-robot/src/ur_description/urdf/ur5_robot.urdf"
 ```
 
 Replace with:
